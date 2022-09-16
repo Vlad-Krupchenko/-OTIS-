@@ -1,0 +1,7 @@
+a = input("A: ")
+b = input("B: ")
+s =int (a[0]) 
+s += int(a[1])
+s += int(b[0])
+s += int(b[1])
+print(s) 
